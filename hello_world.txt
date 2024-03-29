@@ -1,1 +1,3 @@
-Una pequeñita prueba para aprender a guardar cambios, stage them y commit them. 
+Una prueba para aprender a guardar cambios, stage them y commit them. 
+Estoy haciendo estos cambios a través del comando vim :D
+para salir hay que apretar esc y luego escribir wq para guardar y salir 
